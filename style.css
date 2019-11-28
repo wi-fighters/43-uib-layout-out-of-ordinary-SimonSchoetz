@@ -6,9 +6,13 @@ html, body {
 section {
     text-align: center;
 }
-
 .genres {
     display: flex;
+}
+
+section > section {
+    width: 500px;
+    height: 100px;
 }
 
 .action {
