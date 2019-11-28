@@ -8,6 +8,7 @@ section {
 }
 .genres {
     display: flex;
+    flex-wrap: wrap;
 }
 
 section > section {
@@ -20,9 +21,11 @@ section > section {
 }
 .thriller {
     background-color: rgb(190, 178, 178);
+    width: 5000px;
 }
 .comedy {
     background-color: rgb(255, 214, 30);
+    width: 5000px;
 }
 .horror {
     background-color: black;
