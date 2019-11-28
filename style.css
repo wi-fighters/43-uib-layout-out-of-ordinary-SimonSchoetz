@@ -10,12 +10,14 @@ section {
     display: flex;
     flex-wrap: wrap;
     justify-items: stretch;
+
 }
 
 section > section {
     width: 500px;
     height: 100px;
     flex: auto;
+
 }
 
 .action {
@@ -23,9 +25,11 @@ section > section {
 }
 .thriller {
     background-color: rgb(190, 178, 178);
+    flex-grow: 10;
 }
 .comedy {
     background-color: rgb(255, 214, 30);
+    flex-grow: 10;
 }
 .horror {
     background-color: black;
