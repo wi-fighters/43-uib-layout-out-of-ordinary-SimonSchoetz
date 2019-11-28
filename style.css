@@ -3,6 +3,10 @@ html, body {
     padding: 0;
 }
 
+section {
+    text-align: center;
+}
+
 .genres {
     display: flex;
 }
