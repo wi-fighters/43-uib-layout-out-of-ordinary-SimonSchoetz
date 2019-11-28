@@ -18,3 +18,6 @@
 **Hint**: Consider using flex-wrap.
 
 ![reference-gif](/images/example.gif)
+
+-----------
+Just in Case you lose the link: https://github.com/wi-fighters/43-uib-layout-out-of-ordinary-SimonSchoetz
