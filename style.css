@@ -6,3 +6,22 @@ html, body {
 .genres {
     display: flex;
 }
+
+.action {
+    background-color: dodgerblue;
+}
+.thriller {
+    background-color: rgb(190, 178, 178);
+}
+.comedy {
+    background-color: rgb(255, 214, 30);
+}
+.horror {
+    background-color: black;
+}
+.drama {
+    background-color: darkgrey;
+}
+.romance {
+    background-color: red;
+}
